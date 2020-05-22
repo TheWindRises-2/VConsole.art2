@@ -7,3 +7,4 @@
 示例：
 <script src="./js/vconsole.art2.js"></script>
 
+[效果测试](https://segmentfault.com/a/1190000022720017)
